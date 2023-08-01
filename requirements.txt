@@ -7,11 +7,11 @@ importlib-metadata
 itsdangerous
 Jinja2
 MarkupSafe
-otp-generator
 packaging
 pathlib2==2.3.7.post1
 pyparsing
 six
 typing_extensions
+otp-generator
 Werkzeug
 zipp
