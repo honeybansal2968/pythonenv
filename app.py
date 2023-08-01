@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import random
-import otp_generator 
+
 app = Flask(__name__)
 # OTP database to store generated OTPs and their status
 otp_database = {}  # Format: {otp: {'verified': False}}
