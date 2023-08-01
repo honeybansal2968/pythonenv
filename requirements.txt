@@ -8,7 +8,7 @@ itsdangerous
 Jinja2
 MarkupSafe
 packaging
-pathlib2==2.3.7.post1
+pathlib2
 pyparsing
 six
 typing_extensions
