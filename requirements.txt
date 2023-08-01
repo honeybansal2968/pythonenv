@@ -12,6 +12,5 @@ pathlib2
 pyparsing
 six
 typing_extensions
-otp-generator
 Werkzeug
 zipp
